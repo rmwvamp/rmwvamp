@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **.NET.**
 
-- 👯 I’m looking to collaborate on **cool projects in ASP.NET.**
+- 👯 I’m looking to collaborate on **Cool Projects in ASP.NET,JS, C#**
 
-- 💬 Ask me about **ideas**
+- 💬 Ask me about **meaning of life**
 
 - 📫 How to reach me **vk442002@gmail.com**
 
-- ⚡ Fun fact **i like history**
+- ⚡ Fun fact **I like History**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
