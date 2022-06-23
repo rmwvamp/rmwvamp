@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/vaibhavanand02" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhavanand02?logo=twitter&style=for-the-badge" alt="vaibhavanand02" /></a> </p>
 
-- 🌱 I’m currently learning **.NET.**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Cool Projects in ASP.NET,JS, C#**
+- 👯 I’m looking to collaborate on **Cool Projects in Python, ML,C++, ASP.NET,C#**
 
-- 💬 Ask me about **meaning of life**
+- 📫 How to reach me **vaibhavanand_co20b7_34@dtu.ac.in**
 
-- 📫 How to reach me **vk442002@gmail.com**
-
-- ⚡ Fun fact **I like History**
+- ⚡ Fun fact **I love History**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
