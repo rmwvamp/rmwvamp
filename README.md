@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Anand</h1>
-<h3 align="center">A passionate Developer & Programmer. Sophmore Computer Science Undergrad at Delhi Technological University,India</h3>
+<h3 align="center">A passionate Developer & Programmer. Pre-Final Year Computer Science Engineering Undergrad at Delhi Technological University,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmwvamp&label=Profile%20views&color=0e75b6&style=flat" alt="rmwvamp" /> </p>
 
